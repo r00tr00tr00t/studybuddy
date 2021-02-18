@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/aprilleperez/studybuddy)
+
 # Study Buddy
 
 So much to learn, so little time. Sometimes studying is a little easier and more enjoyable with a buddy. Find your study buddy with the Study Buddy app.
